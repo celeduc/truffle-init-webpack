@@ -9,6 +9,10 @@
   },
   "author": "Douglas von Kohorn",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trufflesuite/truffle-init-webpack.git"
+  },
   "devDependencies": {
     "babel-cli": "^6.22.2",
     "babel-core": "^6.22.1",
